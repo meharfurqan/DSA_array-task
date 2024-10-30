@@ -1,2 +1,2 @@
 # DSA_array-task
-It's was my first Git Repository!
+It was my first Git Repository!
